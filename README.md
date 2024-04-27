@@ -1,4 +1,4 @@
-﻿## Updated Code Snippets
+
 
 # Raspberry PI
 ### Temperature check
