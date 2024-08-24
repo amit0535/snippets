@@ -9,4 +9,4 @@ echo 'installing Docker...'
 sudo apt install docker-ce -y
 sudo systemctl status docker
 sudo usermod -aG docker $USER
-sudo rm init.sh
+sudo rm docker.sh
